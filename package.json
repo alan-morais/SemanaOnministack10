@@ -1,0 +1,8 @@
+{
+  "name": "semanaonmistack10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alan-morais/SemanaOnministack10",
+  "author": "Alan Morais <alan.franc@hotmail.com>",
+  "license": "MIT"
+}
